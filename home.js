@@ -1,3 +1,3 @@
 <html>
-    <p>Hello home page</p>
+    <p>Hello home page component</p>
 </html>
